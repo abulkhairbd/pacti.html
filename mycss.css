@@ -1,0 +1,131 @@
+.wikimedia{
+  width: 20%;
+  height: 25%;
+  padding: 30px 0px 0px 0px;
+
+
+}
+
+.writing{
+  padding: 0px 10% 0px 20%;
+}
+.wikipedia{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:20px;
+  border: ;
+  padding: 0px 0px 0px 25px;
+}
+
+
+.NA{
+
+  margin: 90px 80px 70px 50px;
+  border-radius: 80px;
+  padding:90px 80px 70px 60px ;
+  width:90px 80px 70px 60px ;
+  height:90px 80px 70px 60px ;
+}
+
+
+.MA{
+  border:20px solid red ;
+  margin:100px 100px 100px 100px;
+  border-radius: 80px;
+  padding:90px 80px 70px 60px ;
+  width:90px 80px 70px 60px ;
+  height:90px 80px 70px 60px ;
+  color: crimson;
+  background-color: darkgoldenrod;
+}
+
+
+.tanir{
+      border: 30px solid rgb(51, 255, 0);
+      margin:100px 100px 100px 100px;
+      border-radius: 80px;
+      padding:90px 80px 70px 60px ;
+      width:90px 80px 70px 60px ;
+      height:90px 80px 70px 60px ;
+    }
+
+    .frandsdrands{
+      margin:100px 100px 100px 100px;
+      border-radius: 80px;
+      padding:90px 80px 70px 60px ;
+      width:90px 80px 70px 60px ;
+      height:90px 80px 70px 60px ;
+    }
+
+    .frands {
+      margin: 90px 80px 70px 50px;
+      border-radius: 80px;
+      padding:90px 80px 70px 60px ;
+      width:90px 80px 70px 60px ;
+      height:90px 80px 70px 60px ;
+    }
+
+    .name{
+      border: 10px solid green;
+      border-radius: 30px;
+      margin: 10px 90px 10px 70px;
+      padding: 40px 50px 30px 30px;
+      width:50% ;
+      height:50%;
+
+    }
+
+    img{
+      width: 50%;
+      height: 50%;
+    }
+
+    .pic{
+      width: 50%;
+      height: 50%;
+      font-size:200px ;
+    }
+    .name{
+      background-color: yellowgreen;
+      color: rgb(255, 0, 0);
+      font-size: 30px;
+    }
+    span{
+      color:tomato;
+      background-color: yellow;
+      font-size: 200px;
+    }
+
+    .roman{
+      color:red;
+      font-size: 200px;
+      background-color: rgb(51, 255, 0);
+    }
+    .frands{
+      color:orangered;
+      background-color: seagreen;
+    }
+    #tanvir{
+      color:springgreen;
+      background-color: tomato;
+      font-size:100%;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      font-weight:50%;
+      font-style: normal;
+      width: 50%;
+      height: 50%;
+    }
+    h2.frands{
+      color: yellow;
+      background-origin: content-box;
+      background-color: red;
+      font-size: 800px;
+      width: 100%;
+      height: 800px; ;
+    }
+    .drands{
+      color:powderblue;
+      background-color: rgb(51, 255, 0);
+
+
+    }
+    
