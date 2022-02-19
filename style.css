@@ -1,0 +1,53 @@
+body{
+font-family: 'Holtwood One SC', serif;
+font-family: 'Hind Siliguri', sans-serif;
+font-family: 'Holtwood One SC', serif;
+font-family: 'Redressed', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Serif', sans-serif;
+font-family: 'Rubik', sans-serif;
+margin:0px;
+}
+
+.fastpart{
+  width:40%;
+  margin: 2%;
+  padding: 2%;
+  float:left;;
+
+}
+
+.Mahabub{
+  color:orange;
+  font-size: 50px;
+}
+
+
+img{
+  width:100px;
+  height:300px;
+  width: 100%;
+  
+}
+
+.topbanner{
+  background-image: url("https://thewritelife.com/wp-content/uploads/2019/08/How-to-format-a-book.jpg");
+ 
+}
+
+.mahabub{
+  color:red;
+}
+
+section{
+  height: 500px;
+}
+
+.link-baton{
+  text-decoration: none;
+  background-image: linear-gradient( red, green, orange, red, skyblue, white, yellow, olive);
+  padding: 10px 20px;
+  border-radius: 10px;
+  color:Navy;
+  font-weight: 700;
+

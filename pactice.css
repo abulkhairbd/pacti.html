@@ -1,0 +1,18 @@
+.color{
+  color:red;
+  font-size:50px;
+  
+}
+
+.width{
+  width:40%;
+  float:left;
+}
+img{
+  height:350px;
+  width:800px;
+}
+
+.banner{
+  background-image:url();
+}
